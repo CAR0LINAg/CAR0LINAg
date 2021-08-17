@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAR0LINAg
+
 - UNIVERSIDAD AUTONOMA CHAPINGO 
 
 <!---
